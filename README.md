@@ -22,22 +22,21 @@ The project is currently in the setup phase.
 * Maintain a clear Git history using Conventional Commits
 * Document the setup, development, and deployment process
 
+## Features
+
+* Details of project features will be added here.
+
 ## Getting Started
 
-Detailed installation and development instructions will be added as the project develops.
+Detailed installation, configuration, and development instructions will be added as the project develops.
 
-## Development Workflow
+### Prerequisites
 
-This project follows the Conventional Commits specification.
+* Node.js LTS
 
-Examples:
+## Development Guidelines
 
-```text
-feat: add a new feature
-fix: resolve an application issue
-docs: update documentation
-chore: perform repository maintenance
-```
+Please refer to [GEMINI.md](GEMINI.md) for comprehensive coding conventions, Git workflow (Conventional Commits), and instructions for AI assistants.
 
 ## License
 
