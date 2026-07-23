@@ -1,0 +1,73 @@
+.login-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.login-form {
+    width: 380px;
+    border: 1px solid #ddd;
+    padding: 25px;
+    border-radius: 8px;
+    background: #fff;
+}
+
+.login-form h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 18px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: 600;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.password-wrapper {
+    display: flex;
+    gap: 10px;
+}
+
+.password-wrapper input {
+    flex: 1;
+}
+
+.toggle-btn {
+    padding: 10px 14px;
+    cursor: pointer;
+}
+
+.submit-btn {
+    width: 100%;
+    padding: 12px;
+    cursor: pointer;
+}
+
+.submit-btn:disabled {
+    cursor: not-allowed;
+    opacity: 0.6;
+}
+
+.error {
+    color: red;
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+.success {
+    color: green;
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+}
