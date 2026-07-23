@@ -1,0 +1,7 @@
+- `[x]` Initialize React app
+- `[/]` Install React Hook Form (if needed)
+- `[x]` Setup global CSS / variables for styling
+- `[x]` Create `SettingsForm` component
+- `[x]` Add validation to `SettingsForm`
+- `[x]` Render `SettingsForm` in `App`
+- `[x]` Verify application locally
